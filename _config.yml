@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Kuntai Du
+tagline:          'Kuntai Du'
+description:      'A Ph.D. Student in UChicago, a math lover and music lover.'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Kuntai Du'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+gem: [jekyll-paginate, jekyll-gist]
+
+github:
+  repo:           https://github.com/KuntaiDu
+
+  #plugins:
+  #- jekyll-paginate
+  #- jekyll-sitemap
+  #- jekyll-gist
+  #- jekyll-feed
+  #- jemoji
+  # - jekyll-include-cache
