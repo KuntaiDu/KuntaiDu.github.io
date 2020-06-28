@@ -25,7 +25,7 @@ And this is one similiar figure from DDS:
 
 which one would you like better?
 
-In general, well-designed figures could bring some extra benefits. It could deliver the information in a **clearer** way, make the work feel **well-polished** and also indicate that you have a good taste. So, let's start!
+In general, well-designed figures will bring extra benefits. It can deliver the information in a **clearer** way, make the work feel **well-polished** and also indicate that you have a good taste. So, let's start!
 
 ## Deliver simple correct message
 
@@ -51,10 +51,22 @@ and after several iterations, this figure becomes:
 
 These two figures are all delivering correct messages. The difference is that the first figure tries to deliver **too much** messages, and the second figure just illustrates how the camera combine the inference results. In general, delivering too much messages will make the figure feel overwhelming, and will **force** your readers to slow down and reexamine the figure again and again (reread the former figure and check if this align with what you will react :stuck_out_tongue_closed_eyes:). In this case, most people may just skip this figures, or even skip the whole paper. So it is also critical to keeep the message simple. The simple information will be the most effective information.
 
-## Fast iteration
+## Optimize your tool
 
-For drawing the figures, another critical suggestion is to iterate fast. For example, in this figure:
+While plotting the figures, we always need to iterate again and again. Better tool choice will help us iterate much faster and enable us to draw prettier figures. For example, in this figure:
 
 <img src="/assets/2020-06-27/dds1.jpg" width="40%">
 
-Imagine you are going to annotate the figure with all these texts. 
+Imagine you use the ```.py``` file to write all these things, switch between the source code, the terminal and the final pdf file . Ah, what a tedious procedure :dizzy_face:. The better option is to use ```jupyter lab```. By using jupyter lab, you just need to edit the source, hit shift+enter, and voila, the figure comes out.
+
+Also, assume that you are drawing this figure:
+
+<img src="/assets/2020-06-27/dds4.jpg" width="40%">
+
+What tool will provide sufficient alignment while providing sufficient choices to help you hit your aesthetic goals? My suggestion is **powerpoint** (powerpoint is really a good tool in terms of drawing illustrative things).
+
+## Be consistent
+
+## Choose good color
+
+Take a look at one example.
