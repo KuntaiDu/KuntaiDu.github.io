@@ -67,6 +67,22 @@ What tool will provide sufficient alignment while providing sufficient choices t
 
 ## Be consistent
 
+Easy to understand, tedious to execute.
+
 ## Choose good color
 
-Take a look at one example.
+Take a look at one example from [RetroI2V](http://soar.group/pubs/RetroI2V.MobiCom20.pdf).
+
+<img src="/assets/2020-06-27/retroi2v1.jpg" width="40%">
+
+Imagine that you are working at, like, 10pm, really wanna sleep but you still have to present this paper for tomorrow's meeting. And suddenly, this figure bumps out and emits those RGBs (especially that G):boom:. 
+
+To avoid this kind of scenario, please don't use default colors (except for ggplot-style default) and choose your own color palatte. [Color Hunt](https://colorhunt.co/) is an amazing website for this purpose. The color of the figures in the experiment section of DDS are all chosen from this website.
+
+If you wanna dive a little bit into how to pick your colors, there are tons of videos about color theory in youtube. Pick one and watch :wink:. In general:
+
+- Lower the saturation and lightness of your color to make it less intense (ez)
+- Be friendly to colorblind (medium)
+- Contrast the color of your method and other methods (medium)
+- The lightness between colors would better be close (hard)
+
