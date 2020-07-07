@@ -30,14 +30,44 @@ key: page-about
 
 I am a first-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
 
+I made a [small overview on video analytics](https://github.com/KuntaiDu/Video-Aalytic-Overview), which is basically a collection of research papers. Hope this overview will help you.
+
+Email: kuntai@uchicago.edu
+
+[Github](https://github.com/KuntaiDu/) [Zhihu](https://www.zhihu.com/people/du-kun-tai-19)
+
+
+
 ## Publications
 
-#### SIGCOMM 2020 (to be appear)
+#### SIGCOMM 2020
 Server-Driven Video Streaming for Deep Learning Inference
 
 **Kuntai Du\***, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
 
-#### MobiCom 2020
-Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach
+##### Related posts:
 
-Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen,**Kuntai Du**, Gang Huang, Xuanzhe Liu
+[Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
+
+[4 tips on plotting figures in research paper](/2020/06/27/Tips-on-plotting-figures-like-DDS.html)
+
+<br/>
+
+#### MobiCom 2020
+[Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach](http://soar.group/pubs/RetroI2V.MobiCom20.pdf)
+
+Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, **Kuntai Du**, Gang Huang, Xuanzhe Liu
+
+##### Related posts:
+
+<a href="/2020/05/28/retroi2v.html">Our RetroI2V to MobiCom!</a>
+
+## Learn about me
+
+<a href="/2019/07/04/大学学术生活总结.html">大学学术生活总结</a>
+
+## My interests
+
+<a href="/2020/07/05/和朋友吃饭.html">Dance while having lunch</a>
+
+<a href="/2020/07/03/飞雪玉花-箫.html">飞雪玉花片段 箫</a>

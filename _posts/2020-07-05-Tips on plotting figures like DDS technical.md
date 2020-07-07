@@ -1,6 +1,7 @@
 ---
 layout: article
-title: Small tips on plotting figures in the paper through matplotlib
+title: Small tips on plotting figures in research paper through matplotlib
+key: Small tips on plotting figures in research paper through matplotlib
 ---
 
 

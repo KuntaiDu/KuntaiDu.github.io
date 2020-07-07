@@ -1,6 +1,7 @@
 ---
 layout: article
-title: 4 tips on plotting figures in paper
+title: 4 tips on plotting figures in research paper
+key: 4 tips on plotting figures in research paper
 ---
 
 ## Why you may need these tips?
