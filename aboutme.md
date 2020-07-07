@@ -23,7 +23,9 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+key: page-aboutme
+redirect_from:
+  - /aboutme/
 ---
 
 <img class="image image--md" src="/assets/icon.jpg"/>
