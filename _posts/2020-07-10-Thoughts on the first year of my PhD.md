@@ -24,5 +24,13 @@ key: 1st-year-phd
 
 ## 在学术系统中，参与对话的方式不是抒发自己的看法，而是改变别人的看法
 
-在得知
+在学术系统中，参与对话的方式不是抒发自己的看法，而是改变别人的看法。顺便，对于没有学术写作背景的读者，这个观点可能略有逆耳之嫌。如果想要进一步理解这个观点，请诸君参看这个视频：
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtIzMaLkCaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+我导师这么评价这个视频：
+
+BTW, I don’t really agree with everything he said, but this guy really nails it to the core. To be fair, he’s probably 99% right and many guidelines are eye-opening for most first-time paper writers. So watch it as early on as possible and keep them in mind when writing your next paragraph :slightly_smiling_face:
 

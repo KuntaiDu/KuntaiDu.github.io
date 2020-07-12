@@ -42,7 +42,7 @@ Email: kuntai@uchicago.edu
 ## Publications
 
 #### SIGCOMM 2020
-Server-Driven Video Streaming for Deep Learning Inference
+[Server-Driven Video Streaming for Deep Learning Inference](/assets/doc/DDS.pdf)
 
 **Kuntai Du\***, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
 
