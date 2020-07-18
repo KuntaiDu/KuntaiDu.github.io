@@ -46,11 +46,15 @@ Email: kuntai@uchicago.edu
 
 **Kuntai Du\***, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
 
-##### Related posts:
+##### Related resources:
+
+[DDS source code repo](https://github.com/KuntaiDu/dds/). We are still cleaning our code and adding new functionalities on the clean branch.
 
 [Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
 
 [4 tips on plotting figures in research paper](/2020/06/27/Tips-on-plotting-figures-like-DDS.html)
+
+If you have any questions about DDS, please leave comments [here](/2020/07/14/DDS-Q&A.html).
 
 <br/>
 
@@ -65,10 +69,14 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 ## Learn about me
 
-<a href="/2019/07/04/大学学术生活总结.html">大学学术生活总结</a>
+[大学学术生活总结](/2019/07/04/大学学术生活总结.html)
+
+[博一有感](/2020/07/10/Thoughts-on-the-first-year-of-my-PhD.html)
 
 ## My interests
 
-<a href="/2020/07/05/和朋友吃饭.html">Dance while having lunch</a>
+[Dance while having lunch](/2020/07/05/和朋友吃饭.html)
 
-<a href="/2020/07/03/飞雪玉花-箫.html">飞雪玉花片段 箫</a>
+[飞雪玉花片段 箫](/2020/07/03/飞雪玉花-箫.html)
+
+[停格 牵丝戏 record](/2020/07/12/停格-record.html)
