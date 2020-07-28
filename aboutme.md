@@ -73,6 +73,10 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [博一有感](/2020/07/10/Thoughts-on-the-first-year-of-my-PhD.html)
 
+[写下一部童话](/2020/07/28/写童话.html)
+
+[阴天](/2020/07/19/阴天.html)
+
 ## My interests
 
 [Dance while having lunch](/2020/07/05/和朋友吃饭.html)
