@@ -48,6 +48,8 @@ Email: kuntai@uchicago.edu
 
 ##### Related resources:
 
+[Small overview on video analytics](/2020/07/23/Video-analytics-overview.html)
+
 [DDS source code repo](https://github.com/KuntaiDu/dds/). We are still cleaning our code and adding new functionalities on the clean branch.
 
 [Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
