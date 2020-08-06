@@ -42,6 +42,7 @@ Email: kuntai@uchicago.edu
 ## Publications
 
 #### SIGCOMM 2020
+
 [Server-Driven Video Streaming for Deep Learning Inference](/assets/doc/DDS.pdf)
 
 **Kuntai Du\***, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
@@ -50,13 +51,15 @@ Email: kuntai@uchicago.edu
 
 [Small overview on video analytics](/2020/07/23/Video-analytics-overview.html)
 
+[DDS 10-minutes talk](/2020/08/05/DDS-video,-slides-and-scripts-for-10-minutes-video.html), I think this talk is easier to understand than the 20-minutes one.
+
 [DDS 20-minutes talk](/2020/07/30/Video,-slides,-and-scripts-for-DDS.html)
 
 [DDS source code repo](https://github.com/KuntaiDu/dds/). We are still cleaning our code and adding new functionalities.
 
-[Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
-
 [4 tips on plotting figures in research paper](/2020/06/27/Tips-on-plotting-figures-like-DDS.html)
+
+[Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
 
 If you have any questions about DDS, please leave comments [here](/2020/07/14/DDS-Q&A.html).
 
