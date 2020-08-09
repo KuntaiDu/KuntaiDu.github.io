@@ -1,33 +1,37 @@
 ---
 layout: article
-title: 5 tips on how to make good slides
+title: Example on how to make good slides
 key: how-to-make-good-slides
 ---
 
-Still under construction :)
+Let me take [RetroTurbo](https://dl.acm.org/doi/abs/10.1145/3387514.3406229#sec-supp) as a starting point as making slides (The author Yue Wu is my friend, so :smirk:). 
 
-<!-- 
+Let's take a look at this slide:
 
-## Why you may need these tips?
+<img src="/assets/2020-08-09/toomuchtext.jpg" width="60%">
 
-Here is a non-joke for amateur presenters: one day, a presenter needs to give a 10-minute presentation on an acedemic conference. "Isn't that simple?", he thinks, "I just need to read the introduction part of my paper!"
+How will people LOOK this slides? Take myself as an example. I will first attracted by the red and blue things down below. And then realize that the text is above the figure and should be looked first. And then I found a lot of fancy technical words that are too fancy for me to understand. And then I decide to include this slides into my post and write something about it :satisfied:.
 
-Giving talks and writing papers are drastically different, even when you are facing the same audience. The reason is that people are more free and focused while reading paper, and are more bounded and 
-
-## Things must be simple and linear
+The main question for this slides is that tons of new information flows after a single mouse click. It's like when you dine at the restaurant, the waiter gives you dumplings, noodles, french-fries, steak and a lot of other dishes. Nobody will know that which dish tastes the best and which dish should I eat first. The similiar thing also holds here. Highlight what you really want to say (tell people what is your daily recommendatation), and present new informations slowly (don't flood people with tons of new dishes). My typical setting is: **one slides, one key point; one click, one new point**.
 
 
 
-## Give people a reason to care
 
-## It's not about completeness
+Now let's take a look at this slide:
 
-## When they read, they won't listen
+<img src="/assets/2020-08-09/tonsoftext.jpg" width="60%">
 
-Here, the "read" refers to ANY new contents. Like a new figure, a new line of text, and so on. While people are reading, it is very likely that they will not listen.
+How will people react to this slides? Take me as an example. I will start to read the slides, and the words that the author says become random noises, or even worse, become **distraction** :worried:. 
 
-## Good talk for acedemic conference has dual purposes
+Always keep in mind that **when people read, people won't listen**. So please try your best to minimize your texts and use figures instead.
 
-At last, I think the following video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Unzc731iCUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-summerizes some techniques that are extremely useful (I also applies some of them in my slides). -->
+"But", somebody may argue, "I DO have tons of informations to present! If I discard some of those infomations, the whole thing will be incomplete."
+
+I totally understand the desire of explaining. But, **NO! It's not about completeness!!!** (I can still remember that Junchen (my advisor) repeated this sentence for three times, and says he will still need to say this again.) The purpose of presentation is not about completeness. Completeness is the requirement of writing paper. The purpose of presentation (on acedemic conference) is more like an appetizer. Specifically,
+
+- For >90% people who are not familiar with the topic, let them feel interested int this topic and your story. 
+- For <10% people who are familiar with the topic, let them see some real stuff and feel that you actually achieve something.
+
+So you see, the main purpose is to change THEIR thoughts. The value is generated through saing they are wrong, rather than introducing the background. 
+
+
