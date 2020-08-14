@@ -61,7 +61,7 @@ Email: kuntai@uchicago.edu
 
 [Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
 
-If you have any questions about DDS, please leave comments [here](/2020/07/14/DDS-QA.html).
+If you have any questions about DDS, please leave comments [here](/2020/08/08/DDS-QA.html).
 
 <br/>
 
