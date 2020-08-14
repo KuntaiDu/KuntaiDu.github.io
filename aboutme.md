@@ -70,10 +70,6 @@ If you have any questions about DDS, please leave comments [here](/2020/07/14/DD
 
 Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, **Kuntai Du**, Gang Huang, Xuanzhe Liu
 
-##### Related posts:
-
-<a href="/2020/05/28/retroi2v.html">Our RetroI2V to MobiCom!</a>
-
 ## Learn about me
 
 [大学学术生活总结](/2019/07/04/大学学术生活总结.html)
