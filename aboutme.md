@@ -61,7 +61,7 @@ Email: kuntai@uchicago.edu
 
 [Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
 
-If you have any questions about DDS, please leave comments [here](/2020/07/14/DDS-Q&A.html).
+If you have any questions about DDS, please leave comments [here](/2020/07/14/DDS-QA.html).
 
 <br/>
 
@@ -87,3 +87,7 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 [飞雪玉花片段 箫](/2020/07/03/飞雪玉花-箫.html)
 
 [停格 牵丝戏 record](/2020/07/12/停格-record.html)
+
+## See all my posts
+
+Check [here](/) to see all my posts.

@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Kuntai Du posts
 description: > # this means to ignore newlines until "Language & timezone"
-  Strike a balance between expressing my thoughts and making others understand.
+  They say we'll rot in hell, but I don't think we will.
 
 
 ## => Language and Timezone
@@ -40,7 +40,7 @@ author:
   name      : Kuntai Du
   url       : https://KuntaiDu.github.io/about.html
   avatar    : assets/icon.jpg
-  bio       : Strike a balance between expressing my thoughts and making others understand.
+  bio       : They say we'll rot in hell, but I don't think we will.
   email     : kuntai@uchicago.edu
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -67,7 +67,7 @@ paths:
   root    : #
   home    : #/blog.html
   archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  rss     : # "/feed.xml"
 
 
 ## => Post
