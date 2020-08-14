@@ -4,7 +4,7 @@
   //...footer styling
  
   .newsletter-container {
-    max-width: 380px;
+    max-width: 300px;
     border-radius: 1em;
     display: flex;
     flex-direction: column;
@@ -24,10 +24,10 @@
     font-size: 1.5em;
     margin: 0;
     color: #002b36;
-    text-transform: uppercase;
+    //text-transform: uppercase;
 }
 .newsletter-text {
-    font-weight: 600;
+    //font-weight: 600;
     color: #002b36;
     text-align: center;
 }
@@ -48,16 +48,16 @@
     padding: 0.5em;
     border: none;
     background: rgba(#859900, .5);
-    text-transform: uppercase;
+    //text-transform: uppercase;
     font-weight: 600;
 }
 
 @media screen and (min-width: 400px) {
     .newsletter-title {
-        font-size: 2.5em;
+        font-size: 1.5em;
     }
     .newsletter-text {
-        font-size: 1.5em;
+        font-size: 1em;
     }
     .newsletter-submit {
         font-size: .7em;
