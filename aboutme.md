@@ -86,7 +86,9 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [飞雪玉花片段 箫](/2020/07/03/飞雪玉花-箫.html)
 
-[停格 牵丝戏 record](/2020/07/12/停格-record.html)
+[克卜勒 cover](/2020/08/15/克卜勒-record.html)
+
+[停格 牵丝戏 cover](/2020/07/12/停格-record.html)
 
 ## See all my posts
 
