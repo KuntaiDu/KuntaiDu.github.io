@@ -27,7 +27,7 @@ Tune configurations to adapt to video dynamics.
 This paper uses super resolution to save bandwidth.
 It trains a super resolution model based on some ground truth by minimizing analytic error, and then uses this model to super-resolute the input video clip for analytic purpose.
 
-#### [DeepDecision INFOCOMM '18](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485905)
+#### [DeepDecision INFOCOM '18](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485905)
 
 #### [Neural Networks Meet Physical Networks: Distributed Inference Between Edge Devices and the Cloud HotNets '18](https://dl.acm.org/doi/pdf/10.1145/3286062.3286070)
 
@@ -42,7 +42,7 @@ This paper uses parallel streaming and inference to reduce latency, motion-vecto
 #### [Cracking open the DNN black-box: Video Analytics with DNNs across the Camera-Cloud Boundary HotEdgeVideo '19](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Split-brain_HotEdgeVideo19.pdf)
 
 
-#### [DSL INFOCOMM '19](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737614)
+#### [DSL INFOCOM '19](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737614)
 
 #### [DDS SIGCOMM '20](https://kuntaidu.github.io/assets/doc/DDS.pdf)
 This paper uses server-driven approach to encode the video in different spatial quality for bandwidth saving purpose.
