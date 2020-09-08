@@ -80,6 +80,8 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [阴天](/2020/07/19/阴天.html)
 
+[从李健的访谈想到的](/2020/09/07/从李健想到的.html)
+
 ## My interests
 
 [Dance while having lunch](/2020/07/05/和朋友吃饭.html)
