@@ -74,13 +74,13 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [大学学术生活总结](/2019/07/04/大学学术生活总结.html)
 
-[博一有感](/2020/10/09/Thoughts-on-the-first-year-of-my-PhD.html)
-
 [写下一部童话](/2020/07/28/写童话.html)
 
 [阴天](/2020/07/19/阴天.html)
 
 [从李健的访谈想到的](/2020/09/07/从李健想到的.html)
+
+[博一有感](/2020/10/09/Thoughts-on-the-first-year-of-my-PhD.html)
 
 ## My interests
 
