@@ -29,7 +29,7 @@ redirect_from:
 
 <img class="image image--md" src="/assets/icon.jpg"/>
 
-I am a first-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
+I am a second-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
 
 I made a [small overview on video analytics](/2020/07/23/Video-analytics-overview.html), which is basically a collection of research papers. Hope this overview will help you.
 
