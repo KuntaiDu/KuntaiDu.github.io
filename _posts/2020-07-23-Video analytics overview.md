@@ -17,6 +17,8 @@ Here is a small literature review with a focus on system for **video inference**
 #### [NoScope VLDB '17](https://www.vldb.org/pvldb/vol10/p1586-kang.pdf)
 This paper targets object detection. It says that by biasing the model to current video and specific classes, the model could be much more cheaper.
 
+#### [Neurosurgeon ASPLOS'17](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2019_2020/papers/kang_asplos_2017.pdf)
+
 #### [AWStream SIGCOMM '18](https://awstream.github.io/paper/awstream.pdf)
 Tune configurations of encoder to adapt to video dynamics.
 
@@ -53,6 +55,8 @@ This paper extracts **cheap features**, exameine the frames sequentially and fil
 #### [ELF Mobicomm '21](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)
 This paper partits the frames into several slices and offload them to different server.
 
+#### [CiNet SIAM '21](https://tianguo.info/project/mobile-deep-inference/cinet_sdm21.pdf)
+
 
 ## Multiple camera video stream
 
@@ -61,6 +65,19 @@ This paper partits the frames into several slices and offload them to different 
 #### [Chameleon SIGCOMM '18](https://people.cs.uchicago.edu/~junchenj/docs/Chameleon_SIGCOMM_CameraReady_faceblurred.pdf)
 
 #### [Caeser SenSys '19](https://nsl.usc.edu/wp-content/uploads/2019/09/Caesar_SenSys19.pdf)
+
+
+## Optimize encoding
+
+### Auto-encoder-based approaches
+
+These are mainly works from computer vision community.
+
+#### [Video coding for Machine IEEE Image Processing '20](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180095)
+
+#### [NLAM AAAI '20](https://arxiv.org/pdf/1912.06348.pdf)
+
+#### [Rate-distortion autoencoder ICCV'19](https://arxiv.org/pdf/1908.05717.pdf)
 
 ## Scale up inference
 
