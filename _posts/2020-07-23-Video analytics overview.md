@@ -4,9 +4,9 @@ title: Overview on video analytics
 key: Video-analytic-overview
 ---
 
-Here, we focus on those researches that provide system-level support for deep-neural-network-based video analytics. If you have any suggestions or I miss some papers, please inform me through creating a new issue. Hope these papers will help you.
+Here is a small literature review with a focus on system for **video inference**.
 
-## Video streaming approaches that can work on single camera
+## Single video stream
 
 #### [Vigil MobiCom '15](https://old.sigmobile.org/mobicom/2015/papers/p426-zhangA.pdf)
 
@@ -48,9 +48,13 @@ This paper uses parallel streaming and inference to reduce latency, motion-vecto
 This paper uses server-driven approach to encode the video in different spatial quality for bandwidth saving purpose.
 
 #### [Reductro SIGCOMM '20](http://web.cs.ucla.edu/~harryxu/papers/li-sigcomm20.pdf)
+This paper extracts **cheap features**, exameine the frames sequentially and filter out those frames that don't change these features much.
+
+#### [ELF Mobicomm '21](https://www.msra.cn/wp-content/uploads/2021/03/mobicom21-elf.pdf)
+This paper partits the frames into several slices and offload them to different server.
 
 
-## Video analytics on multiple cameras
+## Multiple camera video stream
 
 #### [Vigil MobiCom '15](https://old.sigmobile.org/mobicom/2015/papers/p426-zhangA.pdf)
 
@@ -85,6 +89,7 @@ Based on this abstraction, they explore how to encode, index the vido; and how t
 
 #### [Blazelt VLDB '20](https://cs.stanford.edu/~matei/papers/2020/vldb_blazeit.pdf)
 
+
 ### Through resource management
 
 #### [MCDNN MobiSys '16](https://homes.cs.washington.edu/~arvind/papers/mcdnn.pdf)
@@ -105,6 +110,7 @@ Thus, the backbone could be shared between different models.
 ## Dataset and benchmarking
 
 #### [Visual Road SIGMOD '19](https://db.cs.washington.edu/projects/visualroad/p300-haynes.pdf)
-This paper argues that to benchmark video analytic databases, the generation of benchmark videos and the the annotate of those videos should be automatic.
-So they use synthetic way to generate videos.
+This paper generates synthetic videos through computer graphics for benchmarking purpose.
 
+#### [Yoda SEC'21](https://arxiv.org/pdf/2105.08694.pdf)
+This paper collects a large set of videos that highlights the pros and cons for video anlaytic pipelines.
