@@ -48,6 +48,8 @@ This paper uses parallel streaming and inference to reduce latency, motion-vecto
 
 #### [DSL INFOCOM '19](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737614)
 
+#### [Frugal Following SenSys '19](https://dl.acm.org/doi/pdf/10.1145/3356250.3360044)
+
 #### [DDS SIGCOMM '20](https://kuntaidu.github.io/assets/doc/DDS.pdf)
 This paper uses server-driven approach to encode the video in different spatial quality for bandwidth saving purpose.
 
