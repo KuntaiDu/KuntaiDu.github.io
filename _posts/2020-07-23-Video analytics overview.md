@@ -39,6 +39,8 @@ It trains a super resolution model based on some ground truth by minimizing anal
 
 #### [FilterForward MLSys '19](https://arxiv.org/abs/1905.13536)
 
+#### [VStore EuroSys '19](https://arxiv.org/pdf/1810.01794.pdf)
+
 #### [Edge Assisted Real-time Object Detection for Mobile Augmented Reality MobiCom '19](http://www.winlab.rutgers.edu/~luyang/papers/mobicom19_augmented_reality.pdf)
 This paper explores AR scenario, so the key thing here to minimize the latency.
 This paper uses parallel streaming and inference to reduce latency, motion-vector-based tracking & ROI encoding to reduce bandwidth (thus reduce streaming latency), and adaptive offloading to reduce compute cost.
