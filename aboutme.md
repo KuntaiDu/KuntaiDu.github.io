@@ -27,7 +27,7 @@ redirect_from:
   - /aboutme/
 ---
 
-<img class="image image--md" src="/assets/icon.jpg"/>
+<img class="image image--md" src="/assets/icon.jpeg"/>
 
 I am a second-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
 
