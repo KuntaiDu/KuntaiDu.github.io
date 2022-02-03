@@ -41,6 +41,9 @@ Email: kuntai@uchicago.edu
 
 ## Publications
 
+#### MLSys 2022 (To be appear)
+AccMPEG: Optimize Video Encoding for Accurate Video Analytics
+
 #### SIGCOMM 2020
 
 [Server-Driven Video Streaming for Deep Learning Inference](/assets/doc/DDS.pdf)
@@ -76,23 +79,28 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [博一有感](/2020/10/09/Thoughts-on-the-first-year-of-my-PhD.html)
 
-[写下一部童话](/2020/07/28/写童话.html)
-
-## Random thoughts
-
-[阴天](/2020/07/19/阴天.html)
+[博二有感](/2020/02/02/杂感.html)
 
 [从李健的访谈想到的](/2020/09/07/从李健想到的.html)
 
-## My interests
+[写下一部童话](/2020/07/28/写童话.html)
 
-[Dance while having lunch](/2020/07/05/和朋友吃饭.html)
+<!-- ## Random thoughts
+
+[阴天](/2020/07/19/阴天.html) -->
+
+
+
+## My interests
+<!-- 
+[Dance while having lunch](/2020/07/05/和朋友吃饭.html) -->
 
 [飞雪玉花片段 箫](/2020/07/03/飞雪玉花-箫.html)
 
+[戏腔](/2020/07/12/停格-record.html)
+
 [克卜勒 cover](/2020/08/15/克卜勒-record.html)
 
-[停格 牵丝戏 cover](/2020/07/12/停格-record.html)
 
 ## See all my posts
 
