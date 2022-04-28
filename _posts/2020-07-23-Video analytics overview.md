@@ -2,7 +2,7 @@
 layout: article
 title: Overview on video analytics
 key: Video-analytic-overview
-redirect_to: https://stormy-equipment-ef3.notion.site/Video-analytics-overview-90947b73637f427da7d8adc82e764c77
+redirect_to: https://kuntai.notion.site/Video-analytics-overview-90947b73637f427da7d8adc82e764c77
 ---
 
 Here is a small literature review with a focus on video analytic system for **inference** rather than training.
