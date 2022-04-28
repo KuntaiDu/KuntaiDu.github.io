@@ -41,8 +41,16 @@ Email: kuntai@uchicago.edu
 
 ## Publications
 
-#### MLSys 2022 (To be appear)
-AccMPEG: Optimize Video Encoding for Accurate Video Analytics
+#### MLSys 2022
+[AccMPEG: Optimize Video Encoding for Video Analytics](https://proceedings.mlsys.org/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
+
+**Kuntai Du**, Qizheng Zhang, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang
+
+#### Related resources:
+
+The [slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.uchicago.edu/~kuntai/ms-defense.mp4) of my master defense. (Good thing UChicago CS PhD: you can get a free master degree in the middle of your PhD)
+
+[AccMPEG source code repo](https://github.com/KuntaiDu/AccMPEG). I'll clean it after the NSDI fall deadline 😆
 
 #### SIGCOMM 2020
 
@@ -58,7 +66,7 @@ AccMPEG: Optimize Video Encoding for Accurate Video Analytics
 
 [DDS 20-minutes talk](/2020/07/30/Video,-slides,-and-scripts-for-DDS.html)
 
-[DDS source code repo](https://github.com/KuntaiDu/dds/). We are still cleaning our code and adding new functionalities.
+[DDS source code repo](https://github.com/KuntaiDu/dds/)
 
 [4 tips on plotting figures in research paper](/2020/06/27/Tips-on-plotting-figures-like-DDS.html)
 
@@ -67,6 +75,7 @@ AccMPEG: Optimize Video Encoding for Accurate Video Analytics
 If you have any questions about DDS, please leave comments [here](/2020/08/08/DDS-QA.html).
 
 <br/>
+
 
 #### MobiCom 2020
 [Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach](http://soar.group/pubs/RetroI2V.MobiCom20.pdf)
@@ -95,11 +104,13 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 <!-- 
 [Dance while having lunch](/2020/07/05/和朋友吃饭.html) -->
 
-[飞雪玉花片段 箫](/2020/07/03/飞雪玉花-箫.html)
+[如果没有你 cover](/2022/03/01/如果没有你.html)
+<!-- 
+[克卜勒 cover](/2020/08/15/克卜勒-record.html) -->
 
 [戏腔](/2020/07/12/停格-record.html)
 
-[克卜勒 cover](/2020/08/15/克卜勒-record.html)
+[飞雪玉花片段 箫](/2020/07/03/飞雪玉花-箫.html)
 
 
 ## See all my posts
