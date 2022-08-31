@@ -27,15 +27,21 @@ redirect_from:
   - /aboutme/
 ---
 
-<img class="image image--md" src="/assets/icon.jpeg"/>
+<!-- <img src="/assets/icon.jpeg" style="width:500px"/> -->
 
-I am a second-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
+<img class="image image--lg" src="/assets/icon.jpeg"/>
+
+I am a rising 4th-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
 
 I made a [small overview on video analytics](/2020/07/23/Video-analytics-overview.html), which is basically a collection of research papers. Hope this overview will help you.
 
 Email: kuntai@uchicago.edu
 
-[Github](https://github.com/KuntaiDu/) [Zhihu](https://www.zhihu.com/people/du-kun-tai-19)
+[Github](https://github.com/KuntaiDu/) 
+
+[Zhihu](https://www.zhihu.com/people/du-kun-tai-19)
+
+[Ins](https://www.instagram.com/kuntaiuchi/)
 
 
 
@@ -51,6 +57,8 @@ Email: kuntai@uchicago.edu
 The [slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.uchicago.edu/~kuntai/ms-defense.mp4) of my master defense. (Good thing UChicago CS PhD: you can get a free master degree in the middle of your PhD)
 
 [AccMPEG source code repo](https://github.com/KuntaiDu/AccMPEG). I'll clean it after the NSDI fall deadline 😆
+
+<br/>
 
 #### SIGCOMM 2020
 
@@ -90,8 +98,6 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [博二有感](/2020/02/02/杂感.html)
 
-[从李健的访谈想到的](/2020/09/07/从李健想到的.html)
-
 [写下一部童话](/2020/07/28/写童话.html)
 
 <!-- ## Random thoughts
@@ -103,6 +109,8 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 ## My interests
 <!-- 
 [Dance while having lunch](/2020/07/05/和朋友吃饭.html) -->
+
+[Dancing performance](/2022/04/01/dancing.html)
 
 [如果没有你 cover](/2022/03/01/如果没有你.html)
 <!-- 
