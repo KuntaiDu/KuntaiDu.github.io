@@ -29,36 +29,39 @@ redirect_from:
 
 <!-- <img src="/assets/icon.jpeg" style="width:500px"/> -->
 
-<img class="image image--lg" src="/assets/icon.jpeg"/>
+<img class="image image--lg" src="/assets/icon.jpg"/>
 
-I am a rising 4th-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my <a href="/assets/CV.pdf"> CV</a>.
+I am Kuntai Du, a rising 5th-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my [CV](/assets/CV_Kuntai_3.pdf).
 
-I made a [small overview on video analytics](/2020/07/23/Video-analytics-overview.html), which is basically a collection of research papers. Hope this overview will help you.
+I made a [small overview on video analytics](/2020/07/23/Video-analytics-overview.html). Hope this overview will help you.
 
-Email: kuntai@uchicago.edu
+Email: first name@uchicago.edu
 
 [Github](https://github.com/KuntaiDu/) 
 
 [Zhihu](https://www.zhihu.com/people/du-kun-tai-19)
 
-[Ins](https://www.instagram.com/kuntaiuchi/)
+<!-- [Ins](https://www.instagram.com/kuntaiuchi/) -->
 
 
 
-## Publications
+## Selected publications
 
 #### MLSys 2022
 [AccMPEG: Optimize Video Encoding for Video Analytics](https://proceedings.mlsys.org/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
 
 **Kuntai Du**, Qizheng Zhang, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang
 
-#### Related resources:
-
-The [slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.uchicago.edu/~kuntai/ms-defense.mp4) of my master defense. (Good thing UChicago CS PhD: you can get a free master degree in the middle of your PhD)
-
-[AccMPEG source code repo](https://github.com/KuntaiDu/AccMPEG). I'll clean it after the NSDI fall deadline 😆
-
 <br/>
+
+
+[Slides of my MLSys talk](/assets/conference/AccMPEG%20MLSys.pptx).
+
+[Slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.uchicago.edu/~kuntai/ms-defense.mp4) of my master defense.
+
+[AccMPEG source code repo](https://github.com/KuntaiDu/AccMPEG).
+
+---
 
 #### SIGCOMM 2020
 
@@ -66,7 +69,7 @@ The [slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.u
 
 **Kuntai Du\***, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
 
-##### Related resources:
+<br/>
 
 [Small overview on video analytics](/2020/07/23/Video-analytics-overview.html)
 
@@ -78,11 +81,11 @@ The [slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.u
 
 [4 tips on plotting figures in research paper](/2020/06/27/Tips-on-plotting-figures-like-DDS.html)
 
-[Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html)
+<!-- [Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html) -->
 
-If you have any questions about DDS, please leave comments [here](/2020/08/08/DDS-QA.html).
+<!-- If you have any questions about DDS, please leave comments [here](/2020/08/08/DDS-QA.html). -->
 
-<br/>
+---
 
 
 #### MobiCom 2020
@@ -92,11 +95,15 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 ## Acedemic life
 
+
+
+[博一有感](/2020/10/09/Thoughts-on-the-first-year-of-my-PhD.html), English version: [First year of my PhD](/2020/10/10/First.html)
+
+[博二有感](/2021/02/02/杂感.html), English version: [Second year of my PhD](2021/02/03/Secondyear.html)
+
+(WIP: Third year and fourth year of my PhD)
+
 [大学学术生活总结](/2019/07/04/大学学术生活总结.html)
-
-[博一有感](/2020/10/09/Thoughts-on-the-first-year-of-my-PhD.html)
-
-[博二有感](/2020/02/02/杂感.html)
 
 [写下一部童话](/2020/07/28/写童话.html)
 
