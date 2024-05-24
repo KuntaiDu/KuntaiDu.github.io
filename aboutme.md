@@ -33,8 +33,6 @@ redirect_from:
 
 I am Kuntai Du, a rising 5th-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is video analytics. I got my bachelor degree in Peking University. Here is my [CV](/assets/CV_Kuntai_3.pdf).
 
-I made a [small overview on video analytics](/2020/07/23/Video-analytics-overview.html). Hope this overview will help you.
-
 Email: first name@uchicago.edu
 
 [Github](https://github.com/KuntaiDu/) 
@@ -43,33 +41,63 @@ Email: first name@uchicago.edu
 
 <!-- [Ins](https://www.instagram.com/kuntaiuchi/) -->
 
+[Papers on video analytics](/2020/07/23/Video-analytics-overview.html)
+
+## Publications
 
 
-## Selected publications
+#### OSDI 2024
+[Automatic and Efficient Customization of Neural Networks for ML Applications](https://arxiv.org/pdf/2310.04685)
+
+Yuhan Liu, Chengcheng Wan, <u><b><i>Kuntai Du</i></b></u>, Henry Hoffmann, Junchen Jiang, Shan Lu, Michael Maire
+
+
+#### NSDI 2024
+[Loss-Resilient Real-Time Video through Neural Codecs](https://www.usenix.org/system/files/nsdi24-cheng.pdf)
+
+Yihua Cheng, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, Qizheng Zhang, Yuhan Liu, <u><b><i>Kuntai Du</i></b></u>, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang
+
+
+#### SoCC 2023
+[OneAdapt: Fast Adaptation for Deep Learning Applications via Backpropagation](https://arxiv.org/pdf/2310.02422)
+
+<u><b><i>Kuntai Du</i></b></u>, Yuhan Liu, Yitian Hao, Qizheng Zhang, Haodong Wang, Yuyang Huang, Ganesh Ananthanarayanan, Junchen Jiang
+
+
+
+#### OOPSLA 2023
+[Run-Time Prevention of Software Integration Failures of Machine Learning APIs](https://people.cs.uchicago.edu/~shanlu/paper/OOPSLA23_SmartGear.pdf)
+
+Chengcheng Wan, Yuhan Liu, <u><b><i>Kuntai Du</i></b></u>, Henry Hoffman, Junchen Jiang, Michael Maire, Shan Lu
+
 
 #### MLSys 2022
 [AccMPEG: Optimize Video Encoding for Video Analytics](https://proceedings.mlsys.org/paper/2022/file/98f13708210194c475687be6106a3b84-Paper.pdf)
 
-**Kuntai Du**, Qizheng Zhang, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang
+<u><b><i>Kuntai Du</i></b></u>, Qizheng Zhang, Anton Arapin, Haodong Wang, Zhengxu Xia, Junchen Jiang
 
-<br/>
+[Slides](/assets/conference/AccMPEG%20MLSys.pptx); [Code](https://github.com/KuntaiDu/AccMPEG).
 
 
-[Slides of my MLSys talk](/assets/conference/AccMPEG%20MLSys.pptx).
+#### HotMobile 2022
+[Understanding the Potential of Server-Driven Edge Video Analytics](https://dl.acm.org/doi/pdf/10.1145/3508396.3512872)
 
-[Slides](/assets/doc/Kuntai_MS_defense.pptx) and [video](https://people.cs.uchicago.edu/~kuntai/ms-defense.mp4) of my master defense.
+Qizheng Zhang, <u><b><i>Kuntai Du</i></b></u>, Neil Agarwal, Ravi Netravali, Junchen Jiang
 
-[AccMPEG source code repo](https://github.com/KuntaiDu/AccMPEG).
 
----
+#### SoCC 2022
+[Minimizing packet retransmission for real-time video analytics](https://dl.acm.org/doi/abs/10.1145/3542929.3563502)
+
+Haodong Wang, <u><b><i>Kuntai Du</i></b></u>, Junchen Jiang
+
+
 
 #### SIGCOMM 2020
 
 [Server-Driven Video Streaming for Deep Learning Inference](/assets/doc/DDS.pdf)
 
-**Kuntai Du\***, Ahsan Pervaiz*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
+<u><b><i>Kuntai Du</i></b></u>\*, Ahsan Pervaiz\*, Xin Yuan, Aakanksha Chowdhery, Qizheng Zhang, Henry Hoffmann, Junchen Jiang.
 
-<br/>
 
 [Small overview on video analytics](/2020/07/23/Video-analytics-overview.html)
 
@@ -81,17 +109,11 @@ Email: first name@uchicago.edu
 
 [4 tips on plotting figures in research paper](/2020/06/27/Tips-on-plotting-figures-like-DDS.html)
 
-<!-- [Small tips on plotting figures in research paper through matplotlib](/2020/07/05/Tips-on-plotting-figures-like-DDS-technical.html) -->
-
-<!-- If you have any questions about DDS, please leave comments [here](/2020/08/08/DDS-QA.html). -->
-
----
-
 
 #### MobiCom 2020
 [Renovating Road Signs for Infrastructure-to-Vehicle Networking: A Visible Light Backscatter Communication and Networking Approach](http://soar.group/pubs/RetroI2V.MobiCom20.pdf)
 
-Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, **Kuntai Du**, Gang Huang, Xuanzhe Liu
+Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, <u><b><i>Kuntai Du</i></b></u>, Gang Huang, Xuanzhe Liu
 
 ## Acedemic life
 
@@ -101,15 +123,11 @@ Purui Wang, Lilei Feng, Guojun Chen, Chenren Xu, Yue Wu, Kenuo Xu, Guobin Shen, 
 
 [博二有感](/2021/02/02/杂感.html), English version: [Second year of my PhD](2021/02/03/Secondyear.html)
 
-(WIP: Third year and fourth year of my PhD)
+[博士后半段：有关选择与诚恳](/2023/07/30/第三第四年.html), English version: [Latter half of my phd: about choice and sincerity](/2023/07/30/thirdfourth.html)
 
 [大学学术生活总结](/2019/07/04/大学学术生活总结.html)
 
 [写下一部童话](/2020/07/28/写童话.html)
-
-<!-- ## Random thoughts
-
-[阴天](/2020/07/19/阴天.html) -->
 
 
 
